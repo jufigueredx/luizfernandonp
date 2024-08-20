@@ -756,27 +756,13 @@ section,
 .hero {
   background: url(../img/BANNER-PRINCIPAL2.jpg) center no-repeat;
   background-color:#004C22;
-  width: 100vw;
+  width: 100%;
   min-height: 55vh;
   position: relative;
   padding: 120px 0px 0px 0px;
   display: flex;
   align-items: center;
 }
-
-/* .hero h1 {
-  margin: 0;
-  font-size: 70px;
-  font-weight: 700;
-  line-height: 65px;
-}
-
-.hero p {
-  color: #0d5a09;
-  margin: 5px 0 30px 5px;
-  font-size: 20px;
-  font-weight: 500;
-} */
 
 .hero .btn-get-started {
   color: var(--contrast-color);
